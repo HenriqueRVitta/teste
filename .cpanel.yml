@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hrvinfor/public_html/
+    - export DEPLOYPATH=/home/hrvinfor/public_html/teste
     - /bin/cp -R * $DEPLOYPATH
